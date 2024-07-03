@@ -1,5 +1,5 @@
                                                   ## Hi there, I'm Jhon 👋
-<img src="![githubReadme](https://github.com/jhonherrera7/jhonherrera7/assets/89622626/c8ee9c98-cccc-439c-984a-95133b42f748)">
+<img src="![githubReadme](assets/githubReadme.png)">
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
