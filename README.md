@@ -34,7 +34,7 @@
 
 <p align = "center">
   
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonherrera7&show_icons=true&theme=dark&locale=en&layout=compact" alt="jhonherrera7" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonh.studio&show_icons=true&theme=dark&locale=en&layout=compact" alt="jhonh,studio" /></p>
 </p>
 
 <p align ="center">
